@@ -1,0 +1,16 @@
+{
+  "name": "caelid-wasm",
+  "collaborators": [
+    "Benjamin Nguyen <benjamin.van.nguyen@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "caelid_wasm_bg.wasm",
+    "caelid_wasm.js",
+    "caelid_wasm_bg.js",
+    "caelid_wasm.d.ts"
+  ],
+  "module": "caelid_wasm.js",
+  "types": "caelid_wasm.d.ts",
+  "sideEffects": false
+}
